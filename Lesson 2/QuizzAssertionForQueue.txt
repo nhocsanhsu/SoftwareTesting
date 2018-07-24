@@ -1,2 +1,5 @@
-Queue1: queue fail when try to hold an integer larger than 3200
-Queue2:
+Queue1: queue fail when it tries to hold an integer larger than 3200
+Queue2: Queue fail when hold more than 15 elements.
+Queue3: Empty function call dequeue() so when call dequeue again, the value has
+already lost.
+Queue4: When dequeue an empty queue should  return none instead of false.

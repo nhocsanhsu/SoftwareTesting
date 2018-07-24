@@ -1,0 +1,5 @@
+- Doing black box testing because:
+	+ System large enough that a detailed knowledge of its internals may not very much help in create a good test case.
+	+ No need to concern if the system meets its goals and no need make the system work for all possible use cases.
+	+ Concerned how the system will be used.
+	

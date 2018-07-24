@@ -1,0 +1,3 @@
+Different testing: Talking the same input and delivering it to 2 different implemenations of the software under test and compare theme, extremely powerful when we have multiple versions.
+Stress testing: System tested at or beyong its normal usage limits.
+Random testing: Use the result of a pseudo-random number generator to randomly create test input, it is useful for finding corner case.

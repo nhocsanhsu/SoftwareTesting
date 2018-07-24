@@ -1,0 +1,3 @@
+- Testing a smaller amount of testing.
+- Goal: Find the defects in the internal logic.
+- White box testing for person who implemented that module.

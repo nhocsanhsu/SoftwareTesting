@@ -1,0 +1,3 @@
+- Make code self-checking: fail proactively when there is a bug, leading to more effective testing
+- Make code fail early at a location that closer to actual bug.
+- Look at where the bad values came from that lead to the assertion failure and use that info to assign blame to one of modules involved in the call.

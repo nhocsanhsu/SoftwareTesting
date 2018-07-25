@@ -1,0 +1,1 @@
+Branch coverage: a metric where a branch in a code is covered, if it executes both ways.

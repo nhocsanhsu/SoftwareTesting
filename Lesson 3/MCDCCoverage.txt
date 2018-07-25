@@ -1,0 +1,2 @@
+- Modified condition is a combination of condition of all possible value and branch coverage.
+- Every condition independently affects the outcome of a decision.

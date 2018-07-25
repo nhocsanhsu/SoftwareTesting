@@ -1,0 +1,3 @@
+- A path through program is a sequence of decision made by condition operator in the program.
+- By making a different of decision we make another path coverage.
+- By change the value of variable when can get many paths

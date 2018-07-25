@@ -1,0 +1,3 @@
+- We devide input domain into many classes.
+- We suppose that any point within that subdomain is as good as any other point within that subdomain.
+- The partition fail because we thought class of input that are all equivalent and there are hided class within this class which triggers a bug even though the original test case didn't and the original definition of this partitioning scheme didn't give a good guidance in how to actually do in partition.

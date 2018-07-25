@@ -1,0 +1,2 @@
+- For a while, we're pretty good about testing because without knowing it, our testing is being compliant to small part.
+- Assign a score to testing effort

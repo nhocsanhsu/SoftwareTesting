@@ -1,0 +1,5 @@
+- Create many test case with test case generator, with the test case give us the output of SUT.
+- The oracle determine if the output is good or bad (depends on if it passes whatever checks we have).
+- If the output not okay, we save the test case somewhere for later inspection.
+- Random testing is not necessarily part of the test suite for SUT. Can work independently.
+- We need a random test case generator and good oracle.

@@ -1,0 +1,1 @@
+- Statement coverage: Line coverage, estimate how many line excuted from all lines

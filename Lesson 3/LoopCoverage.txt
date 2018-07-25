@@ -1,0 +1,1 @@
+Loop coverage: Excute each loop zero times, one time and more than one.

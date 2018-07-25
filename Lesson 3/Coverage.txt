@@ -1,0 +1,4 @@
+ - Test coverage is an automatic way of partitioning the input domain with some observed features of source code
+ - Dividing our input domain in chunks where any test case in this part is going to result(call a function), we will get some different subset of input domain and use input in that domain to result in different function.
+ - Keeping subdividing the input domain until we have parts that results in every fucntion.
+ - Score tested function/all function is called a  test covergage metric.

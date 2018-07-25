@@ -1,0 +1,10 @@
+- We need to cover all function in SUT.
+- Contruct test case and excute those functions.
+Advantages:
+	- Give us object score.
+	- When coverage is <100%, we are given meaningful tasks.
+Disadvantage:
+	- Not very helpful in finding errors of omission.
+	- Hard to know what made test coverage score less than 100%
+	- Some sofware would  require 100% test coverage.
+	- 100% coverage doesn't mean all bugs were found.

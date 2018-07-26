@@ -1,0 +1,3 @@
+- RD make a random experiment with small assumption.
+- RD can construct test cases to test things that we don't actually understand or know well.
+- RD is incredibly effective on commercial software

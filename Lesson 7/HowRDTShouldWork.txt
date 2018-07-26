@@ -1,0 +1,2 @@
+- Rd can create many test case that divide the system's erros into multiple problems.
+- Non-random processes are simply unlikely to find bugs in complicated systems

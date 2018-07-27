@@ -1,0 +1,1 @@
+When the compiler runs, it generates code and wait for compiler tell us that it fail because included lots of assertion violations.

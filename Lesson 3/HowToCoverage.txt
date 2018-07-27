@@ -1,0 +1,3 @@
+Measure the coverage of the test using some coverage metric.
+If the coverage is high, we should use the feedback from coverage tool and measure coverage again.
+If the coverage is poor, we need to rethink our testing charting.

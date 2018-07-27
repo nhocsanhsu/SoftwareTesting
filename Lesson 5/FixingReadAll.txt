@@ -1,0 +1,2 @@
+Sometime we doesn't need to read all the file bytes by insert faults by calling a read fault injection file.
+Instead of reading all bytes, we asked for it's going to set the number of bytes to read to a random number

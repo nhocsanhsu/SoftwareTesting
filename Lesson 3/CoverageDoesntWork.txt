@@ -1,0 +1,1 @@
+Coverage doesnt work at discovering areas of omission(missing error check).
